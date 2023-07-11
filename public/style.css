@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#chat-container {
+    width: 600px;
+    margin: auto;
+}
+
+#messages {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    height: 400px;
+    overflow-y: scroll;
+}
+
+#input {
+    width: 510px;
+}
+
+#send {
+    width: 80px;
+}
